@@ -1,0 +1,61 @@
+[33mcommit e6827a5044b53541dd2f2c4c6235bdb2a68ee7a8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: minhuikim <kmh940@gmail.com>
+Date:   Tue May 16 22:50:37 2023 +0900
+
+    Revert "회원가입서비스 쿠폰DTO"
+    
+    This reverts commit 0d443655642454b7f17e7e234868eb60c0fb1f61.
+
+[33mcommit 0d443655642454b7f17e7e234868eb60c0fb1f61[m
+Author: HOON <nice130@naver.com>
+Date:   Sun May 14 17:30:13 2023 +0900
+
+    회원가입서비스 쿠폰DTO
+
+[33mcommit 94a6eb87d329883a5ea3424f67f28de75d25e800[m
+Author: HOON <nice130@naver.com>
+Date:   Sun May 14 14:30:43 2023 +0900
+
+    프로젝트 런타임되게수정
+
+[33mcommit 9eba72fc70601456140a02eb633cedefd9d5e4f5[m
+Author: HOON <nice130@naver.com>
+Date:   Sun May 14 14:29:00 2023 +0900
+
+    프로젝트 런타임되게수정
+
+[33mcommit 4d9b5eb5d7ee2ce67d49d710d8f1f0c52f50ada6[m
+Author: HOON <nice130@naver.com>
+Date:   Wed May 10 23:52:47 2023 +0900
+
+    설정오류 재생성하자
+
+[33mcommit e540a62ae3f5d2df387842e3d4ef9d35f59ea2d7[m
+Author: HOON <nice130@naver.com>
+Date:   Tue May 9 23:41:54 2023 +0900
+
+    test....??엥 왜안되지
+
+[33mcommit b986070cef1fd83d92c0e911bdf259aea9f8a452[m
+Author: HOON <nice130@naver.com>
+Date:   Mon May 8 23:30:12 2023 +0900
+
+    memberservice생성
+
+[33mcommit 6db06ce608c802aa94c08a7170ef014159ea7601[m
+Author: nice130 <nice130@naver.com>
+Date:   Mon May 8 17:57:00 2023 +0900
+
+    getter,setter생성
+
+[33mcommit 7b071eb75944fdf757ac987e9f9692593fd4f944[m
+Author: nice130 <nice130@naver.com>
+Date:   Mon May 8 16:12:35 2023 +0900
+
+    스트링부트 생성
+
+[33mcommit c35bb495ecb4a2cfd27b65a7a81a142f096a1fbd[m
+Author: nice130 <nice130@naver.com>
+Date:   Mon May 8 15:57:51 2023 +0900
+
+    스프링부트 생성
